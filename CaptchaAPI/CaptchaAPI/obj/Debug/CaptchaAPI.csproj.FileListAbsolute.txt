@@ -1,0 +1,280 @@
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\ApplicationInsights.config
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\csc.exe
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\vbc.exe
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\VBCSCompiler.exe
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.dll.config
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.pdb
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Antlr3.Runtime.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\EntityFramework.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\EntityFramework.SqlServer.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Web.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.ApplicationInsights.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Newtonsoft.Json.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Owin.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Net.Http.Formatting.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Cors.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Helpers.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Cors.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Owin.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.WebHost.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Mvc.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Optimization.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Razor.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Deployment.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Razor.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\WebGrease.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Web.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.ApplicationInsights.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Cors.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Newtonsoft.Json.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Net.Http.Formatting.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Helpers.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.WebHost.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Mvc.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Optimization.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Razor.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Deployment.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Razor.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Antlr3.Runtime.pdb
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\EntityFramework.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\EntityFramework.SqlServer.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Owin.xml
+C:\development\personal\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.csprojResolveAssemblyReference.cache
+C:\development\personal\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.dll
+C:\development\personal\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.pdb
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\ApplicationInsights.config
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\csc.exe
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\System.Collections.Immutable.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\System.Reflection.Metadata.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\vbc.exe
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\VBCSCompiler.exe
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\roslyn\VBCSCompiler.exe.config
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.dll.config
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.pdb
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Antlr3.Runtime.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\EntityFramework.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\EntityFramework.SqlServer.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Agent.Intercept.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.DependencyCollector.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Web.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.WindowsServer.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.ApplicationInsights.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Core.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Cookies.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Facebook.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Google.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.OAuth.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Twitter.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Web.Infrastructure.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Newtonsoft.Json.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Owin.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Net.Http.Formatting.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Cors.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Helpers.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Cors.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Owin.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.WebHost.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Mvc.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Optimization.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Razor.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Deployment.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Razor.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\WebGrease.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.DependencyCollector.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Web.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.WindowsServer.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.ApplicationInsights.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Cors.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Newtonsoft.Json.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Net.Http.Formatting.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Helpers.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.WebHost.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Mvc.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Optimization.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Razor.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Deployment.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Razor.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Antlr3.Runtime.pdb
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\EntityFramework.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\EntityFramework.SqlServer.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Core.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Facebook.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Cookies.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.OAuth.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Google.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Twitter.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Owin.xml
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.csprojResolveAssemblyReference.cache
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.csproj.CoreCompileInputs.cache
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.dll
+H:\projects\Malasiya\chua jung Sid\tomas\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.pdb
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\ApplicationInsights.config
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\csc.exe
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\vbc.exe
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\VBCSCompiler.exe
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.dll.config
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\CaptchaAPI.pdb
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Antlr3.Runtime.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\EntityFramework.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\EntityFramework.SqlServer.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Web.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.ApplicationInsights.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Newtonsoft.Json.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Owin.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Net.Http.Formatting.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Cors.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Helpers.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Cors.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Owin.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.WebHost.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Mvc.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Optimization.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Razor.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Deployment.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Razor.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\WebGrease.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.Web.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.ApplicationInsights.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Cors.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Newtonsoft.Json.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Net.Http.Formatting.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Helpers.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.WebHost.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Mvc.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Optimization.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Razor.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Deployment.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.WebPages.Razor.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Antlr3.Runtime.pdb
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\EntityFramework.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\EntityFramework.SqlServer.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\bin\System.Web.Http.Owin.xml
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.csprojResolveAssemblyReference.cache
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.dll
+E:\updated Captcha Proj v3.0\CaptchaAPI\CaptchaAPI\obj\Debug\CaptchaAPI.pdb
